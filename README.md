@@ -7,4 +7,4 @@
 
 我负责前端ui，队友负责后端
 
-https://github.com/antiaurora/A-Wechat-Mini-Program/blob/main/%E5%8D%8E%E5%8C%97%E8%B5%9B%E5%8C%BA%E4%B8%89%E7%AD%89%E5%A5%96%E8%AF%81%E4%B9%A6.png
+
